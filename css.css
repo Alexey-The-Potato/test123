@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(7, 67, 67)
+    background-color: white
 }
 
 span{
@@ -8,4 +8,11 @@ span{
 
 .p1{
     color: rgb(255, 0, 0)
+}
+
+.p2{
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 2px 2px 2px green;
+    font-style: oblique;
 }
